@@ -1,1 +1,0 @@
-Adeer is a quick and graceful runner.
